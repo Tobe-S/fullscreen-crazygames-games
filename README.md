@@ -6,4 +6,4 @@ MADE BY: TOBE-S
 
 MADE WITH ♡
 
-Also see this script on 
+Also see this script on https://greasyfork.org/en/scripts/557021-crazygames-fullscreen-button
